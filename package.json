@@ -2,7 +2,7 @@
   "name": "FriendFinder",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "/app/server.js",
   "dependencies": {
     "express": "^4.17.1",
     "path": "^0.12.7"
