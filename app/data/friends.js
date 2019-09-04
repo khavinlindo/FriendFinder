@@ -2,7 +2,7 @@
 
 var friends = [{
     name:"Ahmed",
-    photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    photo:"http://ksean.com/blog/wp-content/uploads/2012/07/Mr.-Forties.jpg",
     scores:[
         5,
         1,
@@ -17,8 +17,8 @@ var friends = [{
       ]
   },
   {
-    name:"Tom",
-    photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    name:"Jane",
+    photo:"https://www.wikihow.com/images/thumb/1/1b/User-Completed-Image-Draw-a-Face-2018.12.02-06.16.35.0.jpeg/670px-User-Completed-Image-Draw-a-Face-2018.12.02-06.16.35.0.jpeg",
     scores:[
     3,
     6,
@@ -34,7 +34,7 @@ var friends = [{
   },
   {
     name:"Larry",
-    photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    photo:"https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/101931194/original/2f4095a4f1b69d0e30ee3cd233f5b42a95e9ee94/draw-portraits-i-am-good-with-that.jpg",
     scores:[
         1,
         2,
@@ -49,8 +49,8 @@ var friends = [{
       ]
   },
   {
-    name:"Hank",
-    photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    name:"Laurie",
+    photo:"https://cloud.visura.co/415416.xx_large.jpg",
     scores:[
         5,
         1,

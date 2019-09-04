@@ -34,7 +34,7 @@ app.get("/api/friends", function(req, res) {
 
       for (j=0;j<friendScores.length; j++) {
 
-        totalDifference += Math.abs(userScores[j] - data[i].scores[j]);
+        totalDifference += Math.abs(parseInt(userScores[j]) - parseInt(data[i].scores[j]));
 
         if (totalDifference <= bestMatch.friendDifference) {
              bestMatch.name = data[i].name;
@@ -44,9 +44,10 @@ app.get("/api/friends", function(req, res) {
       }
      }
 
-     //console.log(bestMatch)
+    
      data.push(userData);
 
+     console.log(bestMatch);
      res.json(bestMatch);
  });
 
